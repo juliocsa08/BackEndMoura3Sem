@@ -1,0 +1,15 @@
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\bin\Debug\net10.0\Atividade09.exe
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\bin\Debug\net10.0\Atividade09.deps.json
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\bin\Debug\net10.0\Atividade09.runtimeconfig.json
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\bin\Debug\net10.0\Atividade09.dll
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\bin\Debug\net10.0\Atividade09.pdb
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\Atividade09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\Atividade09.AssemblyInfoInputs.cache
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\Atividade09.AssemblyInfo.cs
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\Atividade09.csproj.CoreCompileInputs.cache
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\Atividade09.sourcelink.json
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\Atividade09.dll
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\refint\Atividade09.dll
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\Atividade09.pdb
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\Atividade09.genruntimeconfig.cache
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade09\obj\Debug\net10.0\ref\Atividade09.dll

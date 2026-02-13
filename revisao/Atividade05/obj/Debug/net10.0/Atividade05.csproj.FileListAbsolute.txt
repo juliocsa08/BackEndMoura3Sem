@@ -1,0 +1,15 @@
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\Atividade05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\Atividade05.AssemblyInfoInputs.cache
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\Atividade05.AssemblyInfo.cs
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\Atividade05.csproj.CoreCompileInputs.cache
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\Atividade05.sourcelink.json
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\bin\Debug\net10.0\Atividade05.exe
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\bin\Debug\net10.0\Atividade05.deps.json
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\bin\Debug\net10.0\Atividade05.runtimeconfig.json
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\bin\Debug\net10.0\Atividade05.dll
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\bin\Debug\net10.0\Atividade05.pdb
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\Atividade05.dll
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\refint\Atividade05.dll
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\Atividade05.pdb
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\Atividade05.genruntimeconfig.cache
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\revisao\Atividade05\obj\Debug\net10.0\ref\Atividade05.dll
