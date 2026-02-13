@@ -1,0 +1,5 @@
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.AssemblyInfoInputs.cache
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.AssemblyInfo.cs
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\56753478876\Desktop\BackEndMoura3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.sourcelink.json
