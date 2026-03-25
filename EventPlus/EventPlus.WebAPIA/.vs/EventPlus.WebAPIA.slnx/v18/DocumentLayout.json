@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A44BAE18-AFDF-656E-B34C-170D8CE9F02B}|EventPlus.WebAPIA\\EventPlus.WebAPIA.csproj|c:\\users\\56753478876\\desktop\\backendmoura3sem\\eventplus\\eventplus.webapia\\eventplus.webapia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A44BAE18-AFDF-656E-B34C-170D8CE9F02B}|EventPlus.WebAPIA\\EventPlus.WebAPIA.csproj|solutionrelative:eventplus.webapia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A44BAE18-AFDF-656E-B34C-170D8CE9F02B}|EventPlus.WebAPIA\\EventPlus.WebAPIA.csproj|c:\\users\\56753478876\\desktop\\backendmoura3sem\\eventplus\\eventplus.webapia\\eventplus.webapia\\controllers\\presencacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44BAE18-AFDF-656E-B34C-170D8CE9F02B}|EventPlus.WebAPIA\\EventPlus.WebAPIA.csproj|solutionrelative:eventplus.webapia\\controllers\\presencacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -119,6 +123,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventPlus.WebAPIA\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T19:15:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PresencaController.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Controllers\\PresencaController.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Controllers\\PresencaController.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Institui\u00E7\u00E3o.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Models\\Institui\u00E7\u00E3o.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Models\\Institui\u00E7\u00E3o.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PresencaDTO.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\DTO\\PresencaDTO.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\DTO\\PresencaDTO.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Presenca.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Models\\Presenca.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Models\\Presenca.cs",
@@ -167,31 +184,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PresencaRepository.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\PresencaRepository.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Repositories\\PresencaRepository.cs",
               "ToolTip": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\PresencaRepository.cs",
               "RelativeToolTip": "EventPlus.WebAPIA\\Repositories\\PresencaRepository.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwFIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAA3wFIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T17:54:40.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EventoDTO.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\DTO\\EventoDTO.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\DTO\\EventoDTO.cs",
               "ToolTip": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\DTO\\EventoDTO.cs",
               "RelativeToolTip": "EventPlus.WebAPIA\\DTO\\EventoDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T17:23:30.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EventoController.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Controllers\\EventoController.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Controllers\\EventoController.cs",
@@ -203,19 +220,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EventoRepository.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\EventoRepository.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Repositories\\EventoRepository.cs",
               "ToolTip": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\EventoRepository.cs",
               "RelativeToolTip": "EventPlus.WebAPIA\\Repositories\\EventoRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T13:48:52.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Controllers\\LoginController.cs",
@@ -227,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\DTO\\LoginDTO.cs",
@@ -239,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TipoEventoController.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Controllers\\TipoEventoController.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Controllers\\TipoEventoController.cs",
@@ -251,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "InstituicaoDTO.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\DTO\\InstituicaoDTO.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\DTO\\InstituicaoDTO.cs",
@@ -263,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UsuarioDTO.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\DTO\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\DTO\\UsuarioDTO.cs",
@@ -275,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Controllers\\UsuarioController.cs",
@@ -287,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TipoEventoRepository.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\TipoEventoRepository.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Repositories\\TipoEventoRepository.cs",
@@ -299,19 +316,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Repositories\\UsuarioRepository.cs",
               "ToolTip": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\UsuarioRepository.cs",
               "RelativeToolTip": "EventPlus.WebAPIA\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T16:24:29.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "TipoUsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Controllers\\TipoUsuarioController.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Controllers\\TipoUsuarioController.cs",
@@ -323,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IComentarioEventoRepository.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Interfaces\\IComentarioEventoRepository.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Interfaces\\IComentarioEventoRepository.cs",
@@ -335,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Evento.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Models\\Evento.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Models\\Evento.cs",
@@ -347,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "TipoUsuarioDTO.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\DTO\\TipoUsuarioDTO.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\DTO\\TipoUsuarioDTO.cs",
@@ -359,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Iinstitui\u00E7\u00E3oRepository.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Interfaces\\Iinstitui\u00E7\u00E3oRepository.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Interfaces\\Iinstitui\u00E7\u00E3oRepository.cs",
@@ -371,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "TipoEventoDTO.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\DTO\\TipoEventoDTO.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\DTO\\TipoEventoDTO.cs",
@@ -383,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "TipoUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\TipoUsuarioRepository.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Repositories\\TipoUsuarioRepository.cs",
@@ -395,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Institui\u00E7\u00E3oRepository.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Repositories\\Institui\u00E7\u00E3oRepository.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Repositories\\Institui\u00E7\u00E3oRepository.cs",
@@ -407,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "InstituicaoController.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Controllers\\InstituicaoController.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Controllers\\InstituicaoController.cs",
@@ -419,13 +436,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Program.cs",
               "RelativeDocumentMoniker": "EventPlus.WebAPIA\\Program.cs",
               "ToolTip": "C:\\Users\\56753478876\\Desktop\\BackEndMoura3Sem\\EventPlus\\EventPlus.WebAPIA\\EventPlus.WebAPIA\\Program.cs",
               "RelativeToolTip": "EventPlus.WebAPIA\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T18:20:16.76Z"
             }
