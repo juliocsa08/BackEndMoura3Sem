@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using EventPlus.WebAPI.Models;
 using EventPlus.WebAPIA.Models;
 using Microsoft.EntityFrameworkCore;
 

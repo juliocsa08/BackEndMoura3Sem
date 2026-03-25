@@ -1,4 +1,5 @@
-﻿using EventPlus.WebAPIA.Models;
+﻿using EventPlus.WebAPI.Models;
+using EventPlus.WebAPIA.Models;
 
 namespace EventPlus.WebAPIA.Interfaces;
 
@@ -9,4 +10,5 @@ public interface IComentarioEventoRepository
     List<ComentarioEvento> List(Guid IdEvento);
     ComentarioEvento BuscarPorIdUsuario(Guid IdUsuario, Guid IdEvento);
     List<ComentarioEvento> ListarSomenteExibe(Guid IdEvento);
+    
 }

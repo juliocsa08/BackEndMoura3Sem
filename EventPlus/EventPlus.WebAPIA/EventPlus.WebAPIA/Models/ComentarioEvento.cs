@@ -1,10 +1,11 @@
-﻿using System;
+﻿using EventPlus.WebAPIA.Models;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore;
 
-namespace EventPlus.WebAPIA.Models;
+namespace EventPlus.WebAPI.Models;
 
 [Table("ComentarioEvento")]
 public partial class ComentarioEvento
@@ -12,13 +13,13 @@ public partial class ComentarioEvento
     [Key]
     public Guid IdComentarioEvento { get; set; }
 
+    public bool Exibe { get; set; }
+
     [Column(TypeName = "datetime")]
     public DateTime DataComentarioEvento { get; set; }
 
     [StringLength(200)]
-    public string? Descricao { get; set; }
-
-    public bool Exibe { get; set; }
+    public string Descricao { get; set; } = null!;
 
     public Guid? IdEvento { get; set; }
 
