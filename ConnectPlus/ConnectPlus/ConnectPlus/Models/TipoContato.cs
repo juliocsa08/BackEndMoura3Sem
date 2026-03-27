@@ -10,7 +10,7 @@ namespace ConnectPlus.Models;
 public partial class TipoContato
 {
     [Key]
-    public int Id { get; set; }
+    public Guid Id { get; set; }
 
     [StringLength(100)]
     [Unicode(false)]

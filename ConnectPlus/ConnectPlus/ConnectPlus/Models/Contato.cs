@@ -10,7 +10,7 @@ namespace ConnectPlus.Models;
 public partial class Contato
 {
     [Key]
-    public int Id { get; set; }
+    public Guid Id { get; set; }
 
     [StringLength(150)]
     [Unicode(false)]
@@ -24,6 +24,9 @@ public partial class Contato
     [Unicode(false)]
     public string? Imagem { get; set; }
 
+    public Guid? TipoContatoId { get; set; }
 
-    public Guid IdTipoContato { get; internal set; }
+    [ForeignKey("TipoContatoId")]
+    [InverseProperty("Contatos")]
+    public virtual TipoContato? TipoContato { get; set; }
 }

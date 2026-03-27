@@ -81,7 +81,7 @@ public class ContatoController : ControllerBase
                 Nome = Contato.Nome!,
                 FormaContato = Contato.FormasDeContato,
                 Imagem = nomeArquivo, // Aqui salva APENAS a string (o nome da foto)
-                IdTipoContato = Contato.Id_tipoContato // Não esqueça da chave estrangeira do DTO
+                TipoContatoId = Contato.Id_tipoContato // Não esqueça da chave estrangeira do DTO
             };
 
             _ContatoRepository.Cadastrar(novoContato);
@@ -133,7 +133,7 @@ public class ContatoController : ControllerBase
                 Nome = contato.Nome!,
                 FormaContato = contato.FormasDeContato,
                 Imagem = nomeArquivo,
-                IdTipoContato = contato.Id_tipoContato
+                TipoContatoId = contato.Id_tipoContato
             };
 
             _ContatoRepository.Atualizar(id, ContatoAtualizado);

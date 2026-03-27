@@ -28,14 +28,18 @@ public partial class ConnectContext : DbContext
     {
         modelBuilder.Entity<Contato>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Contato__3214EC077204C20F");
+            entity.HasKey(e => e.Id).HasName("PK__Contato__3214EC07A139A676");
 
-            entity.HasOne(d => d.IdTipoContato).WithMany(p => p.Contatos).HasConstraintName("FK__Contato__TipoCon__66603565");
+            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
+
+            entity.HasOne(d => d.TipoContato).WithMany(p => p.Contatos).HasConstraintName("FK__Contato__TipoCon__60A75C0F");
         });
 
         modelBuilder.Entity<TipoContato>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__TipoCont__3214EC079A9AB2E1");
+            entity.HasKey(e => e.Id).HasName("PK__TipoCont__3214EC070492C5E5");
+
+            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
         });
 
         OnModelCreatingPartial(modelBuilder);

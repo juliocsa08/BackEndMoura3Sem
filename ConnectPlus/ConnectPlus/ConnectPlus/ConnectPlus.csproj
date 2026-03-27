@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\images\9fada0df-0f56-46b6-b115-29ee8a62052c.jpg" />
+    <Content Remove="wwwroot\images\c3acc558-b2cb-46f4-a628-df23f03a6034.jpg" />
+    <Content Remove="wwwroot\images\c81195d9-9608-4ed4-9dd2-ae4bbb22c792.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="BCrypt.Net-Next" Version="4.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.5" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.5" />
